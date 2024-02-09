@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3><img align="right" alt="Coding" width="1000" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="1000" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshkumar06&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshkumar06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepeshkumar06" alt="deepeshkumar06" /></a> </p>
