@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshkumar06&show_icons=true&locale=en" alt="deepeshkumar06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshkumar06&" alt="deepeshkumar06" /></p>
+<img src="https://raw.githubusercontent.com/deepeshkumar06/deepeshkumar06/output/snake.svg" alt="Snake animation" />
