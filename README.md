@@ -2,17 +2,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deepesh+Kumar!;" />
 </h1>
-<br>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!--<img align="right" alt="Coding" width="1000" src="https://images.unsplash.com/photo-1457305237443-44c3d5a30b89?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">-->
-<p align="center">
-<img align="middle" alt="Coding" width="50%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF6bGoyOTB4bTByZW15cHpyY2pvMDNzeGF1OW9heG10aTVrNnZwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshkumar06&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshkumar06" /> </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepeshkumar06" alt="deepeshkumar06" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
 - 🔭 I’m currently working on **Chat Bot**
