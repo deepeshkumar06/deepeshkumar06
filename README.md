@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepeshkumar06" alt="deepeshkumar06" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br>
-- 🔭 I’m currently working on **Smart Traffic Monitoring System**
+- 🔭 I’m currently working on **Smart Traffic Monitoring System Using AI**
 
 - 🌱 I’m currently learning **Oracle SQL**
 
