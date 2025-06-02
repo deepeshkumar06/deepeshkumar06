@@ -10,7 +10,7 @@
 <br>
 - 🔭 I’m currently working on **Smart Traffic Monitoring System Using AI**
 
-- 🌱 I’m currently learning **Oracle SQL**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **deepeshkumar.p2004@gmail.com**
 <br>
